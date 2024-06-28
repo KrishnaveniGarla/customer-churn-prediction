@@ -14,10 +14,14 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
+![image](https://github.com/KrishnaveniGarla/customer-churn-prediction/assets/170930248/8a30e03b-7549-47a9-8edd-99891b743817)
+
+![image](https://github.com/KrishnaveniGarla/customer-churn-prediction/assets/170930248/681b7ca4-a842-4d5c-91ad-018bdc22fad1)
+
+![image](https://github.com/KrishnaveniGarla/customer-churn-prediction/assets/170930248/285bfaa7-60c1-4dff-a47b-2fae611880e6)
+
+![image](https://github.com/KrishnaveniGarla/customer-churn-prediction/assets/170930248/654817fc-7733-4312-a2fc-9ddf4095fdbc)
+
 
 
 ## 📓 Overview
